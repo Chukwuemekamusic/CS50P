@@ -1,0 +1,7 @@
+4 major principles of oop
+-Encapsulation: 
+-Abstraction
+-Inheriance
+-Polymorphism 
+
+keep learning!!!
